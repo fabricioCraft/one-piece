@@ -86,7 +86,7 @@ main::after {
     display: flex;
     position: absolute;
     gap: 15px;
-    bottom: 80px;
+    bottom: 10%;
     margin: 15%;
     
     
